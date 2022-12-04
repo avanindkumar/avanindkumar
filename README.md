@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avanindkumar
 - 👀 I’m interested in learning new techonologies.
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on JavaScript or ReactJs
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on JavaScript, ReactJs or NodeJs
 - 📫 How to reach me by my eamil: avanindkumar@gmail.com
 
 <!---
